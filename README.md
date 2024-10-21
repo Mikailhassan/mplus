@@ -2,7 +2,7 @@
 
 ## Version 2.X is here!!
 <p>
-For Version 1.X, view [releases](https://github.com/changeweb/Unifiedtransform/releases). Continuation of Version 1.X support in **[v1-x-branch](https://github.com/changeweb/Unifiedtransform/tree/v1-x-branch)** branch.
+
 </p>
 <p align="center">
 School Management and Accounting Software
@@ -17,7 +17,7 @@ School Management and Accounting Software
 [![Discord](https://img.shields.io/discord/917848091107946556)](https://discord.gg/8sz6kpup99)
 [![Contribute](https://img.shields.io/badge/Help%20Wanted-Contribute-blue)](https://github.com/changeweb/Unifiedtransform/issues?q=is%3Aissue+is%3Aopen+)
 
-We like to challenge the quality of what we build to make it better. To do so, we try to make the product intuitive, beautiful, and user friendly. Innovation and hard work help to fulfill these requirements. I believe in order to innovate we need to think differently. A few months ago I discovered there was no open source free school management software that met my quality standards. I happen to know a bit of programming so I decided to make one. I also believe that working with more people can push the standard higher than working alone. So I decided to make it open source and free.
+We like to challenge the quality of what we build to make it better. To do so, we try to make the product intuitive, beautiful, and user friendly. Innovation and hard work help to fulfill these requirements. I believe in order to innovate we need to think differently. A few months ago I discovered there was no  school management software that met my quality standards. I happen to know programming so I decided to make one. I also believe that working with more people can push the standard higher than working alone. 
 
 ## Featured on Laravel News !!
 ![Screenshot_2019-04-07 Laravel News](https://user-images.githubusercontent.com/9896315/55683832-1b3c8c80-5966-11e9-8dfb-ab30a79a98ed.png)
@@ -56,15 +56,13 @@ GNU General Public License v3.0
 
 ## Contribute
 
-Unifiedtransform is 100% open source and free forever!!
-
 Community contribution can make this product better!!
 
 <img width="100%" src="https://repobeats.axiom.co/api/embed/d90fe8b75d73579b62d26d3097cd29ac0147e77d.svg" alt="Repobeats analytics image" />
 
 When you contribute to a Github project you agree with this terms of [Github Terms of Service(Contributions Under Repository License)](https://help.github.com/en/articles/github-terms-of-service#6-contributions-under-repository-license).
 
-Since this project is under **GNU General Public License v3.0**, according to Github's Terms of Service all your contributions are also under the same license terms.
+Since this project is under **GNU General Private License v3.0**, according to Github's Terms of Service all your contributions are also under the same license terms.
 Thus you permit the user of this software to use your contribution under the terms of **GNU General Public License v3.0**.
 
 ## Whats New
@@ -73,7 +71,6 @@ v2.X is built from scratch. Both UI and internal workflow of the application are
 ## Features yet to be migrated from v1.X to v2.X
 Following features that exist in v1.X will be added in v2.X as well in future.
 
-- Stripe payment
 - Messaging
 - Managing library
 - Managing Income and Expenses
@@ -130,10 +127,7 @@ With the improved Docker setup, you will get:
     ```
 
     Then exit from the container.
-8. Visit **http://localhost:8080**. Admin login credentials:
 
-    - Email: admin@ut.com
-    - Password: password
 
 ## Steps to follow:
 Please carefully follow the steps to setup the school.
